@@ -1,0 +1,5 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [YATENDRA KAUSHIK]
+description: [Highly motivated Mechanical Engineer specializing in electric vehicle technologies, thermal systems, and advanced energy solutions. Skilled in powertrain fundamentals, battery/thermal management, and computational analysis with hands-on experience in engine performance research, nanoparticle fuel enhancement, and CAE tools such as Cre-O and ANSYS. Backed by strong academic research (Ph.D. underway) and industrial maintenance experience, I bring a solid understanding of vehicle systems, problem-solving ability, and a commitment to innovation in clean mobility. Seeking an opportunity in the EV industry to apply my technical expertise toward developing efficient, reliable, and sustainable electric mobility solutions.]
