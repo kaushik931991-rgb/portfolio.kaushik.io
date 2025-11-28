@@ -1,5 +1,4 @@
-Below is a **clean, modern, GitHub-optimized portfolio README** personalized for you as an **Electric Vehicle Engineer & Mechanical Engineer**.
-You can paste this directly into your GitHub profile as your main `README.md`.
+
 
 ---
 
@@ -123,11 +122,4 @@ Built a robot with hammer arm & flame-thrower mechanism for intercollegiate comp
 
 ---
 
-## ⭐ **If you like my work, consider giving this repo a star!**
 
-If you'd like, I can also create:
-🔹 A portfolio website (HTML/CSS/React)
-🔹 A one-page GitHub resume
-🔹 Custom project thumbnails and visuals
-
-Just tell me!
